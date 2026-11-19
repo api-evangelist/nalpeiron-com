@@ -1,4 +1,4 @@
-# nalpeiron-com
+# Nalpeiron
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,133 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nalpeiron-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nalpeiron.com/
+Nalpeiron provides a software licensing, monetization, and metering platform for SaaS, on‑premise, hardware and IoT products. Founded in 2005, it pioneered cloud‑based licensing and offers tools for entitlement management, usage‑based pricing, AI‑driven monetization, and revenue intelligence. The company helps vendors reduce churn, accelerate growth, and implement flexible pricing models across multiple channels.
+
+**Areas:** Software Licensing · Monetization · SaaS · IoT · Entitlement Management
+
+## Nalpeiron on APIs.io
+
+Everything profiled for Nalpeiron is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nalpeiron-com/](https://apis.io/providers/nalpeiron-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Nalpeiron API](https://apis.io/apis/nalpeiron-com/nalpeiron-com-api/) — Nalpeiron API as documented publicly: 55 operations. Contract generated from the documentation by API Evangelist (2026-11-19); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetZenmeterDocsDevelopersFullApiSpecMdResponse](https://apis.io/schemas/nalpeiron-com/nalpeiron-com-get-zenmeter-docs-developers-full-api-spec-md-response/)
+- [PatchApiV1EntitlementsActivationsActivationidFeaturesCheckou](https://apis.io/schemas/nalpeiron-com/nalpeiron-com-patch-api-v1-entitlements-activations-activationid-features-checkou/)
+- [PatchApiV1EntitlementsActivationsActivationidFeaturesReturnR](https://apis.io/schemas/nalpeiron-com/nalpeiron-com-patch-api-v1-entitlements-activations-activationid-features-return-r/)
+- [PatchApiV1OfferingsOfferingidRequest](https://apis.io/schemas/nalpeiron-com/nalpeiron-com-patch-api-v1-offerings-offeringid-request/)
+- [PostApiV1EntitlementsActivationsRequest](https://apis.io/schemas/nalpeiron-com/nalpeiron-com-post-api-v1-entitlements-activations-request/)
+- [PostApiV1EntitlementsGroupsRequest](https://apis.io/schemas/nalpeiron-com/nalpeiron-com-post-api-v1-entitlements-groups-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nalpeiron Com Context](https://apis.io/jsonld/nalpeiron-com/nalpeiron-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Nalpeiron API Rules](https://apis.io/rules/nalpeiron-com/nalpeiron-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nalpeiron Authentication](https://apis.io/security/nalpeiron-com/nalpeiron-com-authentication/)
+- [Nalpeiron Domain Security](https://apis.io/security/nalpeiron-com/nalpeiron-com-domain-security/)
+- [Nalpeiron Trust Center](https://apis.io/security/nalpeiron-com/nalpeiron-com-trust-center/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Nalpeiron Scopes](https://apis.io/scopes/nalpeiron-com/nalpeiron-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Nalpeiron Plans Pricing](https://apis.io/plans/nalpeiron-com/nalpeiron-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nalpeiron.com/)
+- [Documentation](https://docs.nalpeiron.com/)
+- [Getting started](https://docs.nalpeiron.com/using-the-platform-ui/getting-started)
+- [Pricing](https://nalpeiron.com/pricing/)
+- [Support](https://nalpeiron.com/support/)
+- [Blog](https://nalpeiron.com/blog/)
+- [Security](https://nalpeiron.com/platform/security/)
+- [Compliance](https://nalpeiron.com/platform/security/)
+- [Terms of service](https://nalpeiron.com/service-terms-and-conditions/)
+- [Privacy policy](https://nalpeiron.com/privacy-policy/)
+- [GitHub](https://github.com/Nalpeiron)
+
+## API Evangelist rating
+
+**Kin Score 63.5** — strong · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 45.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 57.1 |
+| Access clarity | 88.9 |
+
+**Agent readiness 22.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 39.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nalpeiron-com/](https://apis.io/providers/nalpeiron-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nalpeiron: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nalpeiron-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
